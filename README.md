@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 👋 我是吴林婷
+一名专注企业合规与审计的财务从业者，擅长从数据中发现风险，用技术提升效率。
 
-<!--
-**Lilyucan/lilyucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 教育背景
 
-Here are some ideas to get you started:
+### **布里斯托大学**  
+**硕士** · 会计、金融与管理  
+_2021年9月 - 2022年12月_  
 
-- 🔭 I’m currently working on XTRANSFER inc.
-- 🌱 I’m currently learning how to use github.
-- 👯 I’m looking to collaborate on better risk control strategy
-- 🤔 I’m looking for help with new job.
-- 💬 Ask me about KYC and other auditing problem.
-- 📫 How to reach me: wulinting1998@163.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: learing how to skiing
--->
+### **安徽财经大学**  
+**本科** · 会计学  
+_2016年9月 - 2020年7月_  
+
+## 💼 工作经历
+
+### **Xtransfer Inc**  
+**风控合规专员**  
+_2024年1月 - 至今_  
+- 负责内容：待补充（或简要描述日常工作）
+
+### **天健会计师事务所**  
+**审计助理**（根据内容推测，需填写实际职位）  
+_2022年12月 - 2023年10月_  
+- 上市公司年度审计：  
+  - 负责货币资金、费用等科目审计，包括银行函证收发、资产盘点等。  
+  - 独立完成子公司试算平衡表（TB表）编制。  
+- IPO项目审计：  
+  - 主导货币资金与费用科目底稿，完成子公司全科目审计。  
+  - 协作券商完成发行人流水核查，分析潜在舞弊行为。  
+- 尽职调查：  
+  - 发现企业财务与内控问题，形成尽调报告并向管理层汇报。
+ 
+  ## 🛠️ 技术栈  
+- **数据分析**: SQL, Excel（VLOOKUP/数据透视表）  
+- **财务工具**: 用友/U8、鼎信诺审计软件  
+- **其他**: 证监会信息披露规则、企业内控流程  
+
+## 🌱 我最近在学习  
+- Python 数据分析（Pandas/Matplotlib）  
+- 企业反舞弊与合规管理
+
+- ## 📫 联系我  
+- 邮箱：[wulinting1998@163.com](mailto:wulinting1998@163.com)  
